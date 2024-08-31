@@ -8,9 +8,9 @@
 // @match        *://*.hamsterkombatgame.io/*
 // @grant        none
 // @icon         https://hamsterkombatgame.io/images/icons/hamster-coin.png
-// @downloadURL  
-// @updateURL    
-// @homepage     
+// @downloadURL  https://github.com/ismaeti21/ham-violet/edit/main/hamster-kombat.user.js
+// @updateURL    https://github.com/ismaeti21/ham-violet/edit/main/hamster-kombat.user.js
+// @homepage     https://github.com/ismaeti21/ham-violet/hamster-kombat.user.js
 // ==/UserScript==
 
 (function() {
